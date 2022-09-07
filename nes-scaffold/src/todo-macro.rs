@@ -1,4 +1,4 @@
-fn main() {
+fn todo() {
 
   // macro
   todo!("Display");
